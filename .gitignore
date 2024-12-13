@@ -1,0 +1,6 @@
+.env
+.DS_Store
+client_secrets.json
+credentials.json
+session_name.session
+downloads/*

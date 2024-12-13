@@ -1,0 +1,3 @@
+telethon==1.29.0
+pydrive==1.3.1
+python-dotenv==1.0.0
